@@ -9,5 +9,5 @@ steps:
       from_secret: u_docker
     password: 
       from_secret: p_docker
-    repo: luisredda/cloudwatch-proxy
+    repo: luisredda/drone-simple-plugin
     auto_tag: true
