@@ -1,6 +1,7 @@
 #!/bin/sh
 
 echo "This message coming from your new Drone plugin!"
+export
 echo ${PLUGIN_APPLICATION}
 echo ${PLUGIN_PIPELINE}
 echo ${PLUGIN_SERVICE}
