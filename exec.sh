@@ -9,3 +9,5 @@ echo ${PLUGIN_BUILD}
 echo ${PLUGIN_ACCOUNTID}
 echo ${PLUGIN_APIKEY}
 echo ${PLUGIN_BODY}
+ls 
+pwd
